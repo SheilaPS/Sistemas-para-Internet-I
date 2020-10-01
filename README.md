@@ -10,7 +10,7 @@ package exerciseone; // nomes de pacotes são escritos em minúsculo em Java.
  * data de nascimento dos alunos. Realize o teste desta classe criando
  * instancias da classe Aluno..
  * 
- * @author Eduardo Rocha
+ 
  * 
  */
 public class Student { // Classe é escrita em maiúscula.
@@ -79,7 +79,7 @@ package exercisetwo;
  * Crie as classe Retângulo e implemente os comportamentos área, perímetro,
  * diagonal e volume todos com retorno de dados.
  * 
- * @author Eduardo Rocha
+ 
  */
 public class Rectangle {
 	// attributes
@@ -126,7 +126,7 @@ package exercisethree;
  * Calcular o salário líquido; •
  *  Exibir o nome e salário liquido do funcionário.
  *  
- *  @author Eduardo Rocha
+ 
 */
 public class Employee {
 	/**
